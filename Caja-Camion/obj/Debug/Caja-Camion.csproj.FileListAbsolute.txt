@@ -1,0 +1,8 @@
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\obj\Debug\Caja-Camion.csproj.AssemblyReference.cache
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\obj\Debug\Caja-Camion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\obj\Debug\Caja-Camion.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\bin\Debug\Caja-Camion.exe.config
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\bin\Debug\Caja-Camion.exe
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\bin\Debug\Caja-Camion.pdb
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\obj\Debug\Caja-Camion.exe
+C:\Users\Julia Gaeto\source\repos\Caja-Camion\obj\Debug\Caja-Camion.pdb
