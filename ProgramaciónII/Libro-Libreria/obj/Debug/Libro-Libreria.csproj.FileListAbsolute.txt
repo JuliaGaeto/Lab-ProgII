@@ -1,8 +1,0 @@
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\bin\Debug\Libro-Libreria.exe.config
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\bin\Debug\Libro-Libreria.exe
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\bin\Debug\Libro-Libreria.pdb
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\obj\Debug\Libro-Libreria.csproj.AssemblyReference.cache
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\obj\Debug\Libro-Libreria.csproj.SuggestedBindingRedirects.cache
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\obj\Debug\Libro-Libreria.csproj.CoreCompileInputs.cache
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\obj\Debug\Libro-Libreria.exe
-C:\Users\Julia Gaeto\source\repos\Libro-Libreria\obj\Debug\Libro-Libreria.pdb
