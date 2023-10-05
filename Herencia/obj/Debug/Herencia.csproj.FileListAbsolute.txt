@@ -1,0 +1,8 @@
+C:\Users\Julia Gaeto\source\repos\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Julia Gaeto\source\repos\Herencia\bin\Debug\Herencia.exe
+C:\Users\Julia Gaeto\source\repos\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.exe
+C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.pdb
