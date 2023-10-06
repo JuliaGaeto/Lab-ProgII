@@ -1,0 +1,8 @@
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\bin\Debug\Concesionaria.exe.config
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\bin\Debug\Concesionaria.exe
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\bin\Debug\Concesionaria.pdb
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\obj\Debug\Concesionaria.csproj.AssemblyReference.cache
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\obj\Debug\Concesionaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\obj\Debug\Concesionaria.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\obj\Debug\Concesionaria.exe
+C:\Users\Julia Gaeto\source\repos\JuliaGaeto\Lab-ProgII\Concesionaria\obj\Debug\Concesionaria.pdb
