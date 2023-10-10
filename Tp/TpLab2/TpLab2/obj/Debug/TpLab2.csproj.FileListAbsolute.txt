@@ -1,0 +1,16 @@
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.AssemblyReference.cache
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.CoreCompileInputs.cache
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe.config
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.pdb
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.exe
+C:\Users\corde\Desktop\Facu\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.pdb
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe.config
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.pdb
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.AssemblyReference.cache
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.CoreCompileInputs.cache
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.exe
+C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.pdb
