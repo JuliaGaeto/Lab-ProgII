@@ -77,5 +77,12 @@ namespace Herencia
                 this._LadoC = value;
             }
         }
+
+        public override void InfoCompleta()
+        {
+            Console.WriteLine($"Tipo: Triángulo");
+            Console.WriteLine($"Perímetro: {Perimetro}");
+            Console.WriteLine($"Cantidad de lados: {CantLados}");
+        }
     }
 }

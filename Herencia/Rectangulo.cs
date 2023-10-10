@@ -63,5 +63,12 @@ namespace Herencia
                 this._LadoB = value;
             }
         }
+
+        public override void InfoCompleta()
+        {
+            Console.WriteLine($"Tipo: Rectángulo");
+            Console.WriteLine($"Perímetro: {Perimetro}");
+            Console.WriteLine($"Cantidad de lados: {CantLados}");
+        }
     }
 }

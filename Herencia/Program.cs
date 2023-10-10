@@ -27,6 +27,10 @@ namespace Herencia
             Tri.Info();
             Rec.Info();
 
+            Console.WriteLine("\nMétodo virtual");
+            Tri.InfoCompleta();
+            Rec.InfoCompleta();
+
             Console.ReadKey();
         }
     }

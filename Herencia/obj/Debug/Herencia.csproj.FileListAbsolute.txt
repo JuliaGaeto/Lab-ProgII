@@ -6,3 +6,10 @@ C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.csproj.SuggestedBi
 C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
 C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.exe
 C:\Users\Julia Gaeto\source\repos\Herencia\obj\Debug\Herencia.pdb
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\bin\Debug\Herencia.exe
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\bin\Debug\Herencia.pdb
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\obj\Debug\Herencia.exe
+C:\Users\jgaeto\Desktop\Lab-ProgII\Herencia\obj\Debug\Herencia.pdb
