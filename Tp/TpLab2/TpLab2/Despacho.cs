@@ -11,17 +11,23 @@ namespace TpLab2
     {
         //generar una lista con todos los despachos realizados para luego al final del programa listarlos
         private Barco _barco;
-        private Int32 _numDespacho;
+        private string _numDespacho;
         private Cliente _ClienteDeDespacho;
-        private List<Despacho> _ListaDespachos;
-
+        //crear clase mercaderia. private List<Mercaderia> _Mercaderias
+        //crear clase tarifa.
+        //crear clase puerto. private Puerto _Destino. private Puerto _Origen
+        private DateTime _Fecha;
+        private double _Total;
+        private string _Mercaderia;
+        private DateTime _FechaSalida;
+        private DateTime _FechaLlegada;
         public Despacho()
         {
             this.Barco = Barco;
-            this.NumeroDespacho = 0;
+            this.NumeroDespacho = "";
         }
     
-        public Despacho(Barco barco, int codigo)
+        public Despacho(Barco barco, string codigo)
         {
             Barco = barco;
             NumeroDespacho = codigo;
@@ -33,7 +39,7 @@ namespace TpLab2
             set { _barco = value; }
         }
 
-        public Int32 NumeroDespacho
+        public string NumeroDespacho
         {
             get { return _numDespacho;}
             set { _numDespacho = value; }

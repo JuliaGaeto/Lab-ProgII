@@ -6,26 +6,29 @@ using System.Threading.Tasks;
 
 namespace TpLab2
 {
-    public abstract class Cliente
+    public class Cliente
     {
         private string _nombre;
         private string _codigo;
-        private string _mercaderia;
+        private string _Mail;   
+        private List<Despacho> _DespachosCliente;
         public Cliente()
         {
             NombreCliente = "";
-            Mercaderia = "";
+            Codigo = "";
+            this._DespachosCliente = new List<Despacho>();
         }
+
         public string NombreCliente
         {
             get { return _nombre; }
             set { _nombre = value; }
         }
 
-        public string Mercaderia
+        public string Codigo
         {
-            get { return _mercaderia; }
-            set { _mercaderia = value;}
+            get { return _codigo; }
+            set { _codigo = value;}
         }
     }
 }

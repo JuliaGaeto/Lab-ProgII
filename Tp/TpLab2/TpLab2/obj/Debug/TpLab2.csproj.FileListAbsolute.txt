@@ -14,3 +14,11 @@ C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.Sugg
 C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.CoreCompileInputs.cache
 C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.exe
 C:\Users\Julia Gaeto\Desktop\labo2\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.pdb
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.AssemblyReference.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.csproj.CoreCompileInputs.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.exe
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\obj\Debug\TpLab2.pdb
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe.config
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.exe
+C:\Users\jgaeto\Desktop\Lab-ProgII\Tp\TpLab2\TpLab2\bin\Debug\TpLab2.pdb

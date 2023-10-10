@@ -150,7 +150,7 @@ namespace TpLab2
                 vectorcabecera = cadena.Split(',');
                 if (string.IsNullOrWhiteSpace(cadena) != true)
                 {
-                    Console.Write("Ingrese el nombre de un cliente: "); //también puede ser cod de cliente
+                    Console.Write("Ingrese el DNI de un cliente: "); //también puede ser cod de cliente
                     cliente = Console.ReadLine();
                     Console.Clear();
                     //contenido del archivo
@@ -163,7 +163,11 @@ namespace TpLab2
                             if (vectorcontenido[i] == cliente)
                             {
                                 //agregar a la clase cliente: nombre codigo y mercaderia del cliente
-                                return ($"Cliente: {vectorcontenido[0]}\nMercadería: {vectorcontenido[1]}");
+                                return ($"Código: {vectorcontenido[0]}\nNombre: {vectorcontenido[1]}");
+                                Cliente cli = new Cliente();
+                                cli.NombreCliente = vectorcontenido[1];
+                                cli.Codigo = vectorcontenido[0];
+                                //agregar mail
                             }
                         }
                     }
@@ -193,7 +197,6 @@ namespace TpLab2
 
             Console.Clear();
 
-            Random rnd = new Random(); //PARA EL CODIGO DE DESPACHO
             Barco A = new Barco(50, 10, 15, "Beijing", "15 / 5 / 23", "7 / 6 / 06");
             Barco B = new Barco(40, 8, 10, "Tokyo", "15 / 5 / 23", "9 / 6 / 23");
             Barco C = new Barco(60, 12, 15, "Seoul", "15 / 5 / 23", "8 / 6 /23");
@@ -231,7 +234,7 @@ namespace TpLab2
             Console.Write("\nSeleccione un barco: ");
             int seleccion = int.Parse(Console.ReadLine());
             SeleccionBarco(seleccion, ref barcos);
-            Despacho despacho1 = new Despacho(barcos[seleccion - 1], rnd.Next(9000, 18000));
+            Despacho despacho1 = new Despacho(barcos[seleccion - 1]);
             Console.WriteLine("Despacho creado.");
 
             //el empleado deberá elegir la manera de transportar la mercaderia: bodega o contenedores
