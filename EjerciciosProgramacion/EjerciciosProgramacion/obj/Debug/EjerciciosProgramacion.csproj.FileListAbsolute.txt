@@ -1,0 +1,2 @@
+C:\Users\jgaeto\Desktop\Lab-ProgII\EjerciciosProgramacion\EjerciciosProgramacion\obj\Debug\EjerciciosProgramacion.csproj.AssemblyReference.cache
+C:\Users\jgaeto\Desktop\Lab-ProgII\EjerciciosProgramacion\EjerciciosProgramacion\obj\Debug\EjerciciosProgramacion.csproj.CoreCompileInputs.cache

@@ -11,6 +11,7 @@ namespace EjerciciosProgramacion
         //descripcion, marca, codigobarra, precio, costo, stock
         private string _Descripcion;
         private string _Marca;
+        private string _Modelo;
         private string _CodBarra;
         private double _Precio;
         private double _Costo;
@@ -23,6 +24,12 @@ namespace EjerciciosProgramacion
         public string Marca
         {
             get { return this._Marca; } set { this._Marca = value; }
+        }
+
+        public string Modelo
+        {
+            get { return this._Modelo; }
+            set { this._Modelo = value; }
         }
         public string CodBarra
         {
@@ -48,7 +55,13 @@ namespace EjerciciosProgramacion
         public virtual void Info()
         {
             Console.WriteLine("Tipo: artículo");
-
+            Console.WriteLine($"Descripción: {Descripcion}");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Código de barra: {CodBarra}");
+            Console.WriteLine($"Precio: {Precio}");
+            Console.WriteLine($"Costo: {Costo}");
+            Console.WriteLine($"Stock: {Stock}");
         }
     }
 }

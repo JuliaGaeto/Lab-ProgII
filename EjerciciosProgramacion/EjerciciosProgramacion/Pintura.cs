@@ -14,19 +14,20 @@ namespace EjerciciosProgramacion
         private bool _SecadoRapido;
         private bool _Latex;
         //constructor
-        public Pintura()
+        public Pintura(string descripcion, string marca, string modelo, string codbarra, double precio, double costo, int stock, double capcobertura, bool lavable, bool secadorap, bool latex)
         {
-            this.Descripcion = "-";
-            this.Marca = "-";
-            this.CodBarra = "-";
-            this.Precio = 0;
-            this.Costo = 0;
-            this.Stock = 0;
+            this.Descripcion = descripcion;
+            this.Marca = marca;
+            this.Modelo = modelo;
+            this.CodBarra = codbarra;
+            this.Precio = precio;
+            this.Costo = costo;
+            this.Stock = stock;
 
-            this.CapCobertura = 0;
-            this.Lavable = false;
-            this.SecadoRapido = false;
-            this.Latex = false;
+            this.CapCobertura = capcobertura;
+            this.Lavable = lavable;
+            this.SecadoRapido = secadorap;
+            this.Latex = latex;
         }
 
         public double CapCobertura
@@ -48,6 +49,22 @@ namespace EjerciciosProgramacion
         {
             get { return this._Latex; }
             set { this._Latex = value; }
+        }
+
+        public override void Info()
+        {
+            Console.WriteLine("Tipo: artículo");
+            Console.WriteLine($"Descripción: {Descripcion}");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Código de barra: {CodBarra}");
+            Console.WriteLine($"Precio: {Precio}");
+            Console.WriteLine($"Costo: {Costo}");
+            Console.WriteLine($"Stock: {Stock}");
+            Console.WriteLine($"Capacidad de cobertura: {CapCobertura}");
+            Console.WriteLine($"Es lavable?: {Lavable}");
+            Console.WriteLine($"Es de secado rápido?: {SecadoRapido}");
+            Console.WriteLine($"Es latex?: {Latex}");
         }
     }
 }

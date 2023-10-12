@@ -13,16 +13,17 @@ namespace EjerciciosProgramacion
         private string _Modelo;
         private bool _IncluyeBat;
 
-        public Herramienta_Inalambrica() //constructor
+        public Herramienta_Inalambrica(string descripcion, string marca, string modelo, string codbarra, double precio, double costo, int stock, double voltaje, bool incluyebat) //constructor
         {
-            this.Descripcion = "-";
-            this.Marca = "-";
-            this.CodBarra = "-";
-            this.Precio = 0;
-            this.Costo = 0;
-            this.Stock = 0;
-            this.Voltaje = 0;
-            this.Modelo = "-";
+            this.Descripcion = descripcion;
+            this.Marca = marca;
+            this.Modelo = modelo;
+            this.CodBarra = codbarra;
+            this.Precio = precio;
+            this.Costo = costo;
+            this.Stock = stock;
+            this.Voltaje = voltaje;
+            this.IncluyeBateria = incluyebat;
         }
 
         public double Voltaje
@@ -30,23 +31,41 @@ namespace EjerciciosProgramacion
             get { return this._Voltaje; } set { this._Voltaje = value; }
         }
 
-        public string Modelo
-        {
-            get { return this._Modelo; } set { this._Modelo = value; }
-        }
         public bool IncluyeBateria
         {
             get { return this._IncluyeBat; }
             set { this._IncluyeBat = value; }
         }
         //metodos
-        public bool Encender()
+        public bool Encender(bool encendido)
         {
+            if(encendido == true)
+            {
+                return true;
+            }
             return false;
         }
-        public bool Apagar()
+        public bool Apagar(bool apagado)
         {
+            if(apagado == true)
+            {
+                return true;
+            }
             return false;
+        }
+
+        public override void Info()
+        {
+            Console.WriteLine("Tipo: artículo");
+            Console.WriteLine($"Descripción: {Descripcion}");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Código de barra: {CodBarra}");
+            Console.WriteLine($"Precio: {Precio}");
+            Console.WriteLine($"Costo: {Costo}");
+            Console.WriteLine($"Stock: {Stock}");
+            Console.WriteLine($"Voltaje: {Voltaje}");
+            Console.WriteLine($"Incluye batería: {IncluyeBateria}");
         }
     }
 }

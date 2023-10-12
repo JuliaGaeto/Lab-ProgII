@@ -10,8 +10,11 @@ namespace EjerciciosProgramacion
     {
         static void Main(string[] args)
         {
-            Pintura P1 = new Pintura();
+            Pintura P1 = new Pintura("pintura", "marca", "modelo", );
             Herramienta_Inalambrica H1 = new Herramienta_Inalambrica();
+
+            P1.Info();
+            H1.Info();
         }
     }
 }
